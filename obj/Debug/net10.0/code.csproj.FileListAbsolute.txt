@@ -1,0 +1,14 @@
+D:\wse\stud\OOPLabs\Lab2\code\bin\Debug\net10.0\code.exe
+D:\wse\stud\OOPLabs\Lab2\code\bin\Debug\net10.0\code.deps.json
+D:\wse\stud\OOPLabs\Lab2\code\bin\Debug\net10.0\code.runtimeconfig.json
+D:\wse\stud\OOPLabs\Lab2\code\bin\Debug\net10.0\code.dll
+D:\wse\stud\OOPLabs\Lab2\code\bin\Debug\net10.0\code.pdb
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\code.AssemblyInfo.cs
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\code.dll
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\refint\code.dll
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\code.pdb
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\code.genruntimeconfig.cache
+D:\wse\stud\OOPLabs\Lab2\code\obj\Debug\net10.0\ref\code.dll
