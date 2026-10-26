@@ -7,6 +7,8 @@ class Program
     static void Main()
     {
 
+        BinaryTree<Vector> tree = new BinaryTree<Vector>();
+
         Vector[] array = new Vector[3]
         {
             new Vector("Red", 3, 4),
@@ -105,5 +107,10 @@ class Program
 
         Console.WriteLine("List<Vector> after:");
         foreach (var v in list) v.PrintInfo();
+
+
+        tree.Insert(new Vector("Red", 3, 4));
+        tree.Insert(new Vector("Green", 1, 1));
+        tree.Insert(new Vector("Blue", 6, 8));
     }
 }
